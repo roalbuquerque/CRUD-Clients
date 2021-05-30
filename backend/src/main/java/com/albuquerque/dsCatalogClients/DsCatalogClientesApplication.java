@@ -1,4 +1,4 @@
-package com.albuquerque.dsCatalogClientes;
+package com.albuquerque.dsCatalogClients;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
