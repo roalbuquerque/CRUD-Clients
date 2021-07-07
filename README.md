@@ -48,8 +48,13 @@ git clone git@github.com:roalbuquerque/CRUD-clientes.git
 # entrar na pasta do projeto back end
 cd backend
 
+# Abrir o projeto no "Spring Tool Suite 4"
+
 # executar o projeto
-./mvnw spring-boot:run
+Botão direito sobre a classe "DsCatalogClientesApplication.java" e >Run As>Spring Boot App
+
+# o que acontece depois de executar o projeto backend
+O banco será criado conforme scripts em data.sql
 ```
 
 # Como testar os recursos no postman
